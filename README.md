@@ -46,7 +46,8 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 
-![Logo](https://github.com/praveenmethraskar/app-task/11.jpg)
-![Logo](https://github.com/praveenmethraskar/app-task/12.jpg)
-![Logo](https://github.com/praveenmethraskar/app-task/13.jpg)
-![Logo](https://github.com/praveenmethraskar/app-task/14.jpg)
+![Logo](https://raw.githubusercontent.com/praveenmethraskar/app-task/main/11.jpg)
+![Logo](https://raw.githubusercontent.com/praveenmethraskar/app-task/main/12.jpg)
+![Logo](https://raw.githubusercontent.com/praveenmethraskar/app-task/main/13.jpg)
+![Logo](https://raw.githubusercontent.com/praveenmethraskar/app-task/main/14.jpg)
+
